@@ -1,0 +1,1 @@
+results=results._append({"mse":mse,"accuracy":acc},ignore_index=True)
